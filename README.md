@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=QdVFvsCWXrA
 
 #### javascript basics
 https://www.youtube.com/watch?v=Ukg_U3CnJWI
+
+#### all about RAID
+http://www.youtube.com/watch?v=eE7Bfw9lFfs
