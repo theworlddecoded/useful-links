@@ -53,14 +53,26 @@ https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-
 #### very good binary tutorial 
 https://www.youtube.com/watch?v=ETsfylK7kzM
 
+#### how to use NGIX as proxy for many webservers
+https://www.cyberciti.biz/tips/using-nginx-as-reverse-proxy.html
+
 #### tool to check speed between 2 computers
 https://iperf.fr/
+
+#### Adds
+https://www.adreactor.com/
+
+#### convert router to access point
+https://www.smallnetbuilder.com/wireless/wireless-basics/30338-how-to-convert-a-wireless-router-into-an-access-point
 
 #### SQLlite editor tool
 http://sqlitebrowser.org/
 
 #### best C++ tutorial list
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
+
+#### c++ sockets
+http://www.linuxhowtos.org/C_C++/socket.htm
 
 #### DOWNLOAD LINK for PHP storm editplus theme
 http://www.phpstorm-themes.com/sites/default/files/Editplus_1.icls
@@ -70,6 +82,18 @@ https://developers.google.com/web/fundamentals/design-and-ux/responsive/
 
 #### interactive tutorial jQuery
 http://try.jquery.com/
+
+#### HTML Codes and Special Characters
+https://www.thoughtco.com/html-codes-special-characters-4061089
+
+#### proxy list 
+http://spys.one/en/
+
+#### media icons for projects
+http://www.addthis.com/
+
+#### package generator linux UDP/TCP
+http://packeth.sourceforge.net/packeth/Home.html
 
 #### JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern
 https://www.youtube.com/watch?v=xizFJHKHdHw
@@ -83,11 +107,20 @@ http://www.youtube.com/watch?v=eE7Bfw9lFfs
 #### css2 table style generator
 http://tablestyler.com/
 
+#### css2 TOOL background generator
+http://bg.siteorigin.com/
+
+### Logo generator
+https://cooltext.com/
+
 #### diff between scripting language and programming language
 https://www.youtube.com/watch?v=YxnWXbq4s5E
 
 #### types of programming languages
 https://www.youtube.com/watch?v=fbZ4ZhzCeR4
+
+#### cron job FULL MANUAL
+http://www.unixgeeks.org/security/newbie/unix/cron-1.html
 
 #### history of programming languages
 https://www.youtube.com/watch?v=QdVFvsCWXrA
@@ -115,6 +148,9 @@ https://developer.valvesoftware.com/wiki/SteamCMD
 
 #### what is malware
 https://www.youtube.com/watch?v=z4Zj1F-Vv5Y
+
+#### FULL HD wallpapers
+http://wallpaperswide.com/
 
 #### link to delete yahoo account !!!
 https://edit.yahoo.com/config/delete_user
