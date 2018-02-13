@@ -7,16 +7,25 @@ https://www.youtube.com/watch?v=Y9XZQO1n_7c
 #### GIT tutorial
 https://backlog.com/git-tutorial/
 
+#### PDO vs MySQLi
+https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059
+
+#### PHP 5.4 trait
+https://www.youtube.com/watch?v=f8W1mK1tETo
+
 #### how to write secret stuff in a file
 https://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-hide-data-in-a-secret-text-file-compartment/
 
 #### foreign key cases
 https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-on-update-and-on-delete
 
+#### very good binary tutorial 
+https://www.youtube.com/watch?v=ETsfylK7kzM
+
 #### best C++ tutorial list
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
 
-#### PHP storm editplus theme
+#### DOWNLOAD LINK for PHP storm editplus theme
 http://www.phpstorm-themes.com/sites/default/files/Editplus_1.icls
 
 #### HTML responsive design example
