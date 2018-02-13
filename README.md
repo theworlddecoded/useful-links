@@ -7,6 +7,12 @@ https://www.youtube.com/watch?v=Y9XZQO1n_7c
 #### GIT tutorial
 https://backlog.com/git-tutorial/
 
+#### iptables 25 most important rules
+https://linuxboss.wordpress.com/2015/06/02/iptables-25-most-used-rules/
+
+#### MySQLi basic usage
+https://www.sanwebe.com/2013/03/basic-php-mysqli-usage
+
 #### PDO vs MySQLi
 https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059
 
@@ -21,6 +27,12 @@ https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-
 
 #### very good binary tutorial 
 https://www.youtube.com/watch?v=ETsfylK7kzM
+
+#### tool to check speed between 2 computers
+https://iperf.fr/
+
+#### SQLlite editor tool
+http://sqlitebrowser.org/
 
 #### best C++ tutorial list
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
@@ -64,8 +76,14 @@ https://www.similartech.com/
 #### sending email using ssmtp
 https://www.youtube.com/watch?v=QT-6NbjqjDM
 
+#### ASCII art online tool
+http://www.bagill.com/ascii-sig.php
+
 #### what NAT means
 https://www.youtube.com/watch?v=QBqPzHEDzvo
+
+#### install CS 1.6 server
+https://developer.valvesoftware.com/wiki/SteamCMD
 
 #### what is malware
 https://www.youtube.com/watch?v=z4Zj1F-Vv5Y
