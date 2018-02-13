@@ -1,5 +1,23 @@
+#### temporary email address in 2 seconds for trial licenses
+https://www.mailinator.com/
+
+#### GIT tutorial
+https://www.youtube.com/watch?v=Y9XZQO1n_7c
+
+#### GIT tutorial
+https://backlog.com/git-tutorial/
+
+#### how to write secret stuff in a file
+https://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-hide-data-in-a-secret-text-file-compartment/
+
+#### foreign key cases
+https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-on-update-and-on-delete
+
 #### best C++ tutorial list
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
+
+#### PHP storm editplus theme
+http://www.phpstorm-themes.com/sites/default/files/Editplus_1.icls
 
 #### HTML responsive design example
 https://developers.google.com/web/fundamentals/design-and-ux/responsive/
@@ -16,6 +34,9 @@ https://www.howtoinstall.co/en/ubuntu/
 #### all about RAID
 http://www.youtube.com/watch?v=eE7Bfw9lFfs
 
+#### css2 table style generator
+http://tablestyler.com/
+
 #### diff between scripting language and programming language
 https://www.youtube.com/watch?v=YxnWXbq4s5E
 
@@ -27,6 +48,18 @@ https://www.youtube.com/watch?v=QdVFvsCWXrA
 
 #### SMS billing including Romania
 https://fortumo.com/
+
+#### website to compair technologies used in percentage
+https://www.similartech.com/
+
+#### sending email using ssmtp
+https://www.youtube.com/watch?v=QT-6NbjqjDM
+
+#### what NAT means
+https://www.youtube.com/watch?v=QBqPzHEDzvo
+
+#### what is malware
+https://www.youtube.com/watch?v=z4Zj1F-Vv5Y
 
 #### link to delete yahoo account !!!
 https://edit.yahoo.com/config/delete_user
