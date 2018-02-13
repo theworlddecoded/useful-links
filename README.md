@@ -1,8 +1,20 @@
 #### temporary email address in 2 seconds for trial licenses
 https://www.mailinator.com/
 
+#### basic tutorial web services
+https://www.youtube.com/watch?v=RsQ1tFLwldY
+
 #### GIT tutorial
 https://www.youtube.com/watch?v=Y9XZQO1n_7c
+
+#### MySQL shard query
+https://www.percona.com/blog/2014/05/01/parallel-query-mysql-shard-query/
+
+#### product key finder tool
+https://www.magicaljellybean.com/keyfinder/
+
+#### MySQL Master-Slave
+https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql
 
 #### GIT tutorial
 https://backlog.com/git-tutorial/
@@ -10,11 +22,24 @@ https://backlog.com/git-tutorial/
 #### iptables 25 most important rules
 https://linuxboss.wordpress.com/2015/06/02/iptables-25-most-used-rules/
 
+#### jquery autocomplete with suggestions
+http://loopj.com/jquery-tokeninput/
+
 #### MySQLi basic usage
 https://www.sanwebe.com/2013/03/basic-php-mysqli-usage
 
+#### CSS FULL Manual 
+https://css-tricks.com/almanac/
+
+#### MySQL transaction LONG tutorial
+https://www.youtube.com/watch?v=8xpM8pm5yIo
+
 #### PDO vs MySQLi
 https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059
+
+#### mysql memory usage calculator
+http://www.omh.cc/mycnf/
+http://www.mysqlcalculator.com/
 
 #### PHP 5.4 trait
 https://www.youtube.com/watch?v=f8W1mK1tETo
@@ -81,6 +106,9 @@ http://www.bagill.com/ascii-sig.php
 
 #### what NAT means
 https://www.youtube.com/watch?v=QBqPzHEDzvo
+
+#### visual C++ Avoiding the MSVCR100.dll, MSVCP100D.dll, or MSVCR100D.dll is missing error
+http://www.rhyous.com/2010/09/16/avoiding-the-msvcr100-dll-or-msvcr100d-dll/
 
 #### install CS 1.6 server
 https://developer.valvesoftware.com/wiki/SteamCMD
