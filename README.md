@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=RsQ1tFLwldY
 
 #### GIT tutorial
 https://www.youtube.com/watch?v=Y9XZQO1n_7c
+https://try.github.io
+http://gitreal.codeschool.com
 
 #### MySQL shard query
 https://www.percona.com/blog/2014/05/01/parallel-query-mysql-shard-query/
