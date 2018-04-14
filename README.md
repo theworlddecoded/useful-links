@@ -1,3 +1,6 @@
+#### PHP singletone design pattern
+https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
+
 #### temporary email address in 2 seconds for trial licenses
 https://www.mailinator.com/
 
