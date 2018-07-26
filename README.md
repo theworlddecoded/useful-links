@@ -1,3 +1,6 @@
+#### TOOL run JavaScript , jQuery ... etc ...
+http://jsfiddle.net/
+
 #### PHP singletone design pattern
 https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 
