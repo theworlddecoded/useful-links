@@ -1,13 +1,10 @@
-#### TOOL run JavaScript , jQuery ... etc ...
-http://jsfiddle.net/
-
 #### PHP singletone design pattern
 https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 
 #### temporary email address in 2 seconds for trial licenses
 https://www.mailinator.com/
 
-#### basic tutorial web services
+#### (7:46) basic tutorial web services
 https://www.youtube.com/watch?v=RsQ1tFLwldY
 
 #### MySQL shard query
@@ -97,9 +94,6 @@ https://www.youtube.com/watch?v=QdVFvsCWXrA
 
 #### SMS billing including Romania
 https://fortumo.com/
-
-#### website to compair technologies used in percentage
-https://www.similartech.com/
 
 #### (10:04) what NAT means
 https://www.youtube.com/watch?v=QBqPzHEDzvo
