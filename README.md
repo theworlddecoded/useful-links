@@ -10,11 +10,6 @@ https://www.mailinator.com/
 #### basic tutorial web services
 https://www.youtube.com/watch?v=RsQ1tFLwldY
 
-#### GIT tutorial
-(17:52) https://www.youtube.com/watch?v=Y9XZQO1n_7c
-https://try.github.io
-http://gitreal.codeschool.com
-
 #### MySQL shard query
 https://www.percona.com/blog/2014/05/01/parallel-query-mysql-shard-query/
 
@@ -23,9 +18,6 @@ https://www.magicaljellybean.com/keyfinder/
 
 #### MySQL Master-Slave
 https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql
-
-#### GIT tutorial
-https://backlog.com/git-tutorial/
 
 #### iptables 25 most important rules
 https://linuxboss.wordpress.com/2015/06/02/iptables-25-most-used-rules/
