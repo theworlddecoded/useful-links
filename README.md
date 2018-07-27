@@ -53,9 +53,6 @@ https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-
 #### (7:12) very good binary tutorial 
 https://www.youtube.com/watch?v=ETsfylK7kzM
 
-#### how to use NGIX as proxy for many webservers
-https://www.cyberciti.biz/tips/using-nginx-as-reverse-proxy.html
-
 #### tool to check speed between 2 computers
 https://iperf.fr/
 
@@ -88,9 +85,6 @@ http://packeth.sourceforge.net/packeth/Home.html
 
 #### (30:39) JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern
 https://www.youtube.com/watch?v=xizFJHKHdHw
-
-#### how to install packages on Ubuntu
-https://www.howtoinstall.co/en/ubuntu/
 
 #### (0:45) diff between scripting language and programming language
 https://www.youtube.com/watch?v=YxnWXbq4s5E
