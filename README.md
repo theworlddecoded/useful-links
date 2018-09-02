@@ -1,3 +1,6 @@
+#### online QUIZ collection
+https://www.codepunker.com/
+
 #### PHP singletone design pattern
 https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 
