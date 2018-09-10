@@ -1,3 +1,6 @@
+#### download file using PHP script
+https://www.media-division.com/the-right-way-to-handle-file-downloads-in-php/
+
 #### online QUIZ collection
 https://www.codepunker.com/
 
