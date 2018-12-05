@@ -1,3 +1,6 @@
+#### (20:05) sublime , from install to expert user
+https://www.youtube.com/watch?v=oHmPrjSzmwU
+
 #### install magento Ubuntu 16
 https://websiteforstudents.com/install-magento-on-ubuntu-16-04-lts-with-apache2-mariadb-php-7-1-and-lets-encrypt-ssl-tls/
 
