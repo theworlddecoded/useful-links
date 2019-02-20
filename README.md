@@ -1,3 +1,6 @@
+#### Compair technologies
+https://www.similartech.com/
+
 #### (20:05) sublime , from install to expert user
 https://www.youtube.com/watch?v=oHmPrjSzmwU
 
