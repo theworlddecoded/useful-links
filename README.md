@@ -1,3 +1,6 @@
+#### Selenium tutorial
+https://www.youtube.com/watch?v=mOAXEQevCAE
+
 #### Compair technologies
 https://www.similartech.com/
 
