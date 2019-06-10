@@ -77,6 +77,9 @@ https://www.smallnetbuilder.com/wireless/wireless-basics/30338-how-to-convert-a-
 #### best C++ tutorial list
 https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
 
+#### (5:59) How does a blockchain work - Simply Explained
+https://www.youtube.com/watch?v=SSo_EIwHSd4
+
 #### c++ sockets
 http://www.linuxhowtos.org/C_C++/socket.htm
 
