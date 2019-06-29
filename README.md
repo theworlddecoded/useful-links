@@ -1,3 +1,6 @@
+#### What exactly is the DOM
+https://bitsofco.de/what-exactly-is-the-dom/
+
 #### Tools for windows network and OS dll , modules , etc ...
 https://www.novirusthanks.org/
 
