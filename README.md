@@ -34,6 +34,9 @@ https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 #### temporary email address in 2 seconds for trial licenses
 https://www.mailinator.com/
 
+#### (7:37) introduction to web services
+https://www.youtube.com/watch?v=vim2_LSqcvE
+
 #### (7:46) basic tutorial web services
 https://www.youtube.com/watch?v=RsQ1tFLwldY
 
