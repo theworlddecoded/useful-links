@@ -1,3 +1,6 @@
+#### Scaling images in PHP (done right)
+https://blogs.oracle.com/oswald/scaling-images-in-php-done-right
+
 #### Icons for WEBSITE
 https://fontawesome.com/
 
