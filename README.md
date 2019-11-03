@@ -1,3 +1,12 @@
+#### Python for automation & ISTQB
+https://realpython.com/
+
+#### Testing tutorials
+https://www.testingexcellence.com/
+
+#### Best icons database - all colors
+https://www.iconsdb.com/
+
 #### Scaling images in PHP (done right)
 https://blogs.oracle.com/oswald/scaling-images-in-php-done-right
 
