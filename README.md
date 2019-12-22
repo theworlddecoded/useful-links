@@ -1,3 +1,6 @@
+#### ASCII TO HEX CONVERTOR
+https://www.rapidtables.com/convert/number/ascii-to-hex.html
+
 #### LOTO
 https://lotostats.ro/toate-rezultatele-polonia-keno-20-70
 https://www.lotto.pl/keno/wyniki-i-wygrane/ostatnie-wyniki
