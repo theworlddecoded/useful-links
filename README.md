@@ -1,3 +1,6 @@
+#### PHP GEOIP MAXMIND
+https://www.liquidweb.com/kb/how-to-replacing-php-geoip-with-maxminddb/
+
 #### ASCII TO HEX CONVERTOR
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
 
