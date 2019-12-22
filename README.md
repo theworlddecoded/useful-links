@@ -4,6 +4,9 @@ https://uizard.io/
 #### PHP GEOIP MAXMIND
 https://www.liquidweb.com/kb/how-to-replacing-php-geoip-with-maxminddb/
 
+#### Avoiding the MSVCR100.dll, MSVCP100D.dll, or MSVCR100D.dll is missing error (Also MSVCR110.dll, MSVCR120.dll, MSVCR140.dll)
+https://www.rhyous.com/2010/09/16/avoiding-the-msvcr100-dll-or-msvcr100d-dll/
+
 #### ASCII TO HEX CONVERTOR
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
 
