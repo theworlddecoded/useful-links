@@ -168,5 +168,9 @@ https://developer.valvesoftware.com/wiki/SteamCMD
 #### (12:50) what is malware
 https://www.youtube.com/watch?v=z4Zj1F-Vv5Y
 
+#### CS hack sources
+https://guidedhacking.com/
+https://cssteamhacks.blogspot.com/
+
 #### link to delete yahoo account !!!
 https://edit.yahoo.com/config/delete_user
