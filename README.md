@@ -1,3 +1,7 @@
+#### LOTO
+https://lotostats.ro/toate-rezultatele-polonia-keno-20-70
+https://www.lotto.pl/keno/wyniki-i-wygrane/ostatnie-wyniki
+
 #### Python and NGINX
 https://www.fullstackpython.com/nginx.html
 
