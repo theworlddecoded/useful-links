@@ -1,3 +1,6 @@
+#### Python and NGINX
+https://www.fullstackpython.com/nginx.html
+
 #### Python for automation & ISTQB
 https://realpython.com/
 
