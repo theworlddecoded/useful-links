@@ -10,6 +10,9 @@ https://www.rhyous.com/2010/09/16/avoiding-the-msvcr100-dll-or-msvcr100d-dll/
 #### ASCII TO HEX CONVERTOR
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
 
+### LOGO GENERATOR
+https://cooltext.com/
+
 #### LOTO
 https://lotostats.ro/toate-rezultatele-polonia-keno-20-70
 https://www.lotto.pl/keno/wyniki-i-wygrane/ostatnie-wyniki
