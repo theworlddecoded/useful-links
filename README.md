@@ -153,12 +153,6 @@ http://packeth.sourceforge.net/packeth/Home.html
 #### (30:39) JavaScript object creation patterns tutorial - factory , constructor pattern, prototype pattern
 https://www.youtube.com/watch?v=xizFJHKHdHw
 
-#### (0:45) diff between scripting language and programming language
-https://www.youtube.com/watch?v=YxnWXbq4s5E
-
-#### (8:24) types of programming languages
-https://www.youtube.com/watch?v=fbZ4ZhzCeR4
-
 #### (9:17) history of programming languages
 https://www.youtube.com/watch?v=QdVFvsCWXrA
 
