@@ -1,3 +1,6 @@
+#### patterns reports
+https://infograpia.com/
+
 #### UI design
 https://uizard.io/
 
