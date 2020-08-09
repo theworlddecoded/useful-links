@@ -1,3 +1,6 @@
+#### (2:09) How To Get the Free HEVC Codec for Windows 10 / H.265 / HEVC Video Extensions
+https://www.youtube.com/watch?v=JdtjSmWbhhQ
+
 #### patterns reports
 https://infograpia.com/
 
