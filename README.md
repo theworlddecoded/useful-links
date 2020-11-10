@@ -1,4 +1,7 @@
-# Unit testing with JUnit
+#### Full emoji list
+https://unicode.org/emoji/charts/full-emoji-list.html
+
+#### Unit testing with JUnit
 https://www.vogella.com/tutorials/JUnit/article.html
 
 #### Bind any Windows application to a specific interface or IP address
