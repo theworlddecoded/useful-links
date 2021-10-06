@@ -1,3 +1,6 @@
+#### selenium mouse actions
+https://www.selenium.dev/documentation/support_packages/mouse_and_keyboard_actions_in_detail/
+
 #### all chars
 https://copypastecharacter.com/all-characters
 
