@@ -1,3 +1,6 @@
+#### all chars
+https://copypastecharacter.com/all-characters
+
 #### mvn clean install - a short guide to Maven
 https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven
 
