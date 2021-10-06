@@ -1,3 +1,6 @@
+#### javascript promises
+https://www.youtube.com/watch?v=DHvZLI7Db8E
+
 #### selenium mouse actions
 https://www.selenium.dev/documentation/support_packages/mouse_and_keyboard_actions_in_detail/
 
