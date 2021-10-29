@@ -121,6 +121,7 @@ https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 
 #### temporary email address in 2 seconds for trial licenses
 https://www.mailinator.com/
+https://maildrop.cc/
 
 #### (7:46) basic tutorial web services
 https://www.youtube.com/watch?v=RsQ1tFLwldY
