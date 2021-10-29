@@ -1,3 +1,6 @@
+#### git rebase vs merge
+https://www.youtube.com/watch?v=f1wnYdLEpgI
+
 #### javascript promises
 https://www.youtube.com/watch?v=DHvZLI7Db8E
 
