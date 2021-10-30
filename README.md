@@ -1,6 +1,9 @@
 #### git rebase vs merge
 https://www.youtube.com/watch?v=f1wnYdLEpgI
 
+#### git rebase with examples
+https://www.youtube.com/watch?v=ElRzTuYln0M
+
 #### javascript promises
 https://www.youtube.com/watch?v=DHvZLI7Db8E
 
