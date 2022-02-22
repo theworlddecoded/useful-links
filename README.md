@@ -1,3 +1,6 @@
+#### chromium flags list
+https://peter.sh/experiments/chromium-command-line-switches/
+
 #### free diagram online tool
 https://app.diagrams.net/
 
