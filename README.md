@@ -1,3 +1,6 @@
+#### java download
+https://www.oracle.com/java/technologies/downloads/
+
 #### chromium flags list
 https://peter.sh/experiments/chromium-command-line-switches/
 
