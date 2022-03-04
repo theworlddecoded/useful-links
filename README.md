@@ -1,5 +1,5 @@
 
-#### tutorials
+#### programming & IT tutorials
 https://www.freecodecamp.org/news
 
 #### python 5 tips and tricks (9:12)
