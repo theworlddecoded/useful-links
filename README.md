@@ -1,3 +1,6 @@
+#### inspiratie design logo/imagini/bannere, detoate
+https://placeit.net/
+
 #### java si selenium
 https://www.javatpoint.com/selenium-webdriver-running-test-on-ie-browser
 
