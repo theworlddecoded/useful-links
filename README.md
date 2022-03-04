@@ -1,4 +1,7 @@
 
+#### tutorials
+https://www.freecodecamp.org/news
+
 #### python 5 tips and tricks (9:12)
 https://www.youtube.com/watch?v=5tcs2qXP3Pg
 
