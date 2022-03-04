@@ -1,3 +1,6 @@
+#### java si selenium
+https://www.javatpoint.com/selenium-webdriver-running-test-on-ie-browser
+
 #### model/exemplu tutorial video cum sa le fac si eu
 https://www.youtube.com/watch?v=xa-_FIy2NgE
 
