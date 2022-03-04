@@ -1,3 +1,8 @@
+#### model/exemplu tutorial video cum sa le fac si eu
+https://www.youtube.com/watch?v=xa-_FIy2NgE
+
+#### python tips
+https://book.pythontips.com/en/latest/
 
 #### programming & IT tutorials
 https://www.freecodecamp.org/news
