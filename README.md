@@ -1,3 +1,7 @@
+
+#### python 5 tips and tricks (9:12)
+https://www.youtube.com/watch?v=5tcs2qXP3Pg
+
 #### java download
 https://www.oracle.com/java/technologies/downloads/
 
