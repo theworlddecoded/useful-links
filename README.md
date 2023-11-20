@@ -7,9 +7,6 @@ https://reportportal.io/
 #### Fast Inverse Square Root — A Quake III Algorithm
 https://www.youtube.com/watch?v=p8u_k2LIZyo
 
-#### java si selenium
-https://www.javatpoint.com/selenium-webdriver-running-test-on-ie-browser
-
 #### model/exemplu tutorial video cum sa le fac si eu
 https://www.youtube.com/watch?v=xa-_FIy2NgE
 
@@ -21,9 +18,6 @@ https://www.freecodecamp.org/news
 
 #### python 5 tips and tricks (9:12)
 https://www.youtube.com/watch?v=5tcs2qXP3Pg
-
-#### java download
-https://www.oracle.com/java/technologies/downloads/
 
 #### chromium flags list
 https://peter.sh/experiments/chromium-command-line-switches/
@@ -46,14 +40,8 @@ https://www.selenium.dev/documentation/support_packages/mouse_and_keyboard_actio
 #### all chars
 https://copypastecharacter.com/all-characters
 
-#### mvn clean install - a short guide to Maven
-https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven
-
 #### MOV to MP4 Converter
 https://cloudconvert.com/mov-to-mp4
-
-#### JAVA robot
-https://www.tabnine.com/code/java/methods/java.awt.Robot/keyPress
 
 #### CSS painting performance tester
 http://koalastothemax.com/
@@ -69,9 +57,6 @@ https://www.media.io/
 
 #### Full emoji list
 https://unicode.org/emoji/charts/full-emoji-list.html
-
-#### Unit testing with JUnit
-https://www.vogella.com/tutorials/JUnit/article.html
 
 #### Bind any Windows application to a specific interface or IP address
 https://r1ch.net/projects/forcebindip
@@ -130,9 +115,6 @@ https://bitsofco.de/what-exactly-is-the-dom/
 
 #### Tools for windows network and OS dll , modules , etc ...
 https://www.novirusthanks.org/
-
-#### Selenium tutorial
-https://www.youtube.com/watch?v=mOAXEQevCAE
 
 #### Compair technologies
 https://www.similartech.com/
@@ -249,9 +231,6 @@ https://fortumo.com/
 
 #### (10:04) what NAT means
 https://www.youtube.com/watch?v=QBqPzHEDzvo
-
-#### install CS 1.6 server
-https://developer.valvesoftware.com/wiki/SteamCMD
 
 #### (12:50) what is malware
 https://www.youtube.com/watch?v=z4Zj1F-Vv5Y
