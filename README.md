@@ -104,14 +104,8 @@ https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 https://www.mailinator.com/
 https://maildrop.cc/
 
-#### (7:46) basic tutorial web services
-https://www.youtube.com/watch?v=RsQ1tFLwldY
-
 #### MySQL shard query
 https://www.percona.com/blog/2014/05/01/parallel-query-mysql-shard-query/
-
-#### product key finder tool
-https://www.magicaljellybean.com/keyfinder/
 
 #### MySQL Master-Slave
 https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql
@@ -138,9 +132,6 @@ https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-2405
 http://www.omh.cc/mycnf/
 http://www.mysqlcalculator.com/
 
-#### (4:18) PHP 5.4 trait
-https://www.youtube.com/watch?v=f8W1mK1tETo
-
 #### how to write secret stuff in a file
 https://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-hide-data-in-a-secret-text-file-compartment/
 
@@ -156,17 +147,11 @@ https://iperf.fr/
 #### convert router to access point
 https://www.smallnetbuilder.com/wireless/wireless-basics/30338-how-to-convert-a-wireless-router-into-an-access-point
 
-#### best C++ tutorial list
-https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true
-
 #### (5:59) How does a blockchain work - Simply Explained
 https://www.youtube.com/watch?v=SSo_EIwHSd4
 
 #### c++ sockets
 http://www.linuxhowtos.org/C_C++/socket.htm
-
-#### DOWNLOAD LINK for PHP storm editplus theme
-http://www.phpstorm-themes.com/sites/default/files/Editplus_1.icls
 
 #### HTML responsive design example
 https://developers.google.com/web/fundamentals/design-and-ux/responsive/
@@ -177,9 +162,6 @@ https://www.thoughtco.com/html-codes-special-characters-4061089
 #### proxy list 
 http://spys.one/en/
 
-#### media icons for projects
-http://www.addthis.com/
-
 #### package generator linux UDP/TCP
 http://packeth.sourceforge.net/packeth/Home.html
 
@@ -188,9 +170,6 @@ https://www.youtube.com/watch?v=xizFJHKHdHw
 
 #### (9:17) history of programming languages
 https://www.youtube.com/watch?v=QdVFvsCWXrA
-
-#### SMS billing including Romania
-https://fortumo.com/
 
 #### (10:04) what NAT means
 https://www.youtube.com/watch?v=QBqPzHEDzvo
