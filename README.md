@@ -1,3 +1,31 @@
+#### 02-01-2020
+[Notepad++ enable Fira Font ligatures](https://github.com/theworlddecoded/no-category/wiki/Notepad---enable-Fira-Font-ligatures)
+
+***
+
+#### 27-03-2018
+[PHPMailer Yahoo SMTP settings](https://github.com/theworlddecoded/no-category/wiki/PHPMailer-Yahoo-SMTP-settings)
+
+***
+
+#### 26-03-2018
+[PHPMailer Gmail SMTP settings](https://github.com/theworlddecoded/no-category/wiki/PHPMailer-Gmail-SMTP-settings)
+
+***
+
+
+#### 08-06-2016
+[notepad++ how to append a value using regular expressin](https://github.com/theworlddecoded/no-category/wiki/notepad---how-to-append-a-value-using-regular-expression)
+
+***
+
+
+#### 14-09-2013
+[using bind to configure a top level domain](https://github.com/theworlddecoded/no-category/wiki/using-bind-to-configure-a-top-level-domain)
+
+***
+
+
 #### BEST node.js tutorial
 https://www.youtube.com/watch?v=TlB_eWDSMt4
 
