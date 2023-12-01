@@ -10,14 +10,8 @@ https://www.youtube.com/watch?v=p8u_k2LIZyo
 #### model/exemplu tutorial video cum sa le fac si eu
 https://www.youtube.com/watch?v=xa-_FIy2NgE
 
-#### python tips
-https://book.pythontips.com/en/latest/
-
 #### programming & IT tutorials
 https://www.freecodecamp.org/news
-
-#### python 5 tips and tricks (9:12)
-https://www.youtube.com/watch?v=5tcs2qXP3Pg
 
 #### chromium flags list
 https://peter.sh/experiments/chromium-command-line-switches/
@@ -49,9 +43,6 @@ http://koalastothemax.com/
 #### security tutorials
 https://null-byte.wonderhowto.com/
 
-#### ISTQB certification TESTS for exam
-https://istqb.patshala.com/
-
 #### Online Convert MP4, MP3, WAV, MOV, and more to any format.
 https://www.media.io/
 
@@ -63,9 +54,6 @@ https://r1ch.net/projects/forcebindip
 
 #### (2:09) How To Get the Free HEVC Codec for Windows 10 / H.265 / HEVC Video Extensions
 https://www.youtube.com/watch?v=JdtjSmWbhhQ
-
-#### patterns reports
-https://infograpia.com/
 
 #### UI design
 https://uizard.io/
@@ -83,44 +71,19 @@ https://www.rapidtables.com/convert/number/ascii-to-hex.html
 https://cooltext.com/
 
 #### LOTO
-https://lotostats.ro/toate-rezultatele-polonia-keno-20-70
 https://www.lotto.pl/keno/wyniki-i-wygrane/ostatnie-wyniki
-
-#### Python
-https://www.programiz.com/python-programming/time/sleep
-
-#### Python and NGINX
-https://www.fullstackpython.com/nginx.html
-
-#### Python for automation & ISTQB
-https://realpython.com/
-
-#### Testing tutorials
-https://www.testingexcellence.com/
 
 #### Best icons database - all colors
 https://www.iconsdb.com/
 
-#### Scaling images in PHP (done right)
-https://blogs.oracle.com/oswald/scaling-images-in-php-done-right
-
 #### Icons for WEBSITE
 https://fontawesome.com/
-
-#### OOP Inheritance & Polymorphism
-(3:03) https://www.youtube.com/watch?v=gWpg3yMiL0M
-
-#### What exactly is the DOM
-https://bitsofco.de/what-exactly-is-the-dom/
 
 #### Tools for windows network and OS dll , modules , etc ...
 https://www.novirusthanks.org/
 
 #### Compair technologies
 https://www.similartech.com/
-
-#### (20:05) sublime , from install to expert user
-https://www.youtube.com/watch?v=oHmPrjSzmwU
 
 #### (7:27) Passwords & hash functions (Simply Explained)
 https://www.youtube.com/watch?v=cczlpiiu42M
