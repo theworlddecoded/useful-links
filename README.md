@@ -1,7 +1,3 @@
-#### 02-01-2020
-[Notepad++ enable Fira Font ligatures](https://github.com/theworlddecoded/no-category/wiki/Notepad---enable-Fira-Font-ligatures)
-
-***
 
 #### 27-03-2018
 [PHPMailer Yahoo SMTP settings](https://github.com/theworlddecoded/no-category/wiki/PHPMailer-Yahoo-SMTP-settings)
