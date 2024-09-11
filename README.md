@@ -1,3 +1,6 @@
+#### Best playwright tutorial
+https://www.youtube.com/watch?v=EWXW2z0U3OQ
+
 #### BEST node.js tutorial
 https://www.youtube.com/watch?v=TlB_eWDSMt4
 
