@@ -85,17 +85,8 @@ https://fontawesome.com/
 #### Tools for windows network and OS dll , modules , etc ...
 https://www.novirusthanks.org/
 
-#### Compair technologies
-https://www.similartech.com/
-
 #### (7:27) Passwords & hash functions (Simply Explained)
 https://www.youtube.com/watch?v=cczlpiiu42M
-
-#### install magento Ubuntu 16
-https://websiteforstudents.com/install-magento-on-ubuntu-16-04-lts-with-apache2-mariadb-php-7-1-and-lets-encrypt-ssl-tls/
-
-#### download file using PHP script
-https://www.media-division.com/the-right-way-to-handle-file-downloads-in-php/
 
 #### online QUIZ collection
 https://www.codepunker.com/
@@ -104,7 +95,6 @@ https://www.codepunker.com/
 https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
 
 #### temporary email address in 2 seconds for trial licenses
-https://www.mailinator.com/
 https://maildrop.cc/
 
 #### MySQL shard query
@@ -119,9 +109,6 @@ https://linuxboss.wordpress.com/2015/06/02/iptables-25-most-used-rules/
 #### jquery autocomplete with suggestions
 http://loopj.com/jquery-tokeninput/
 
-#### MySQLi basic usage
-https://www.sanwebe.com/2013/03/basic-php-mysqli-usage
-
 #### CSS FULL Manual 
 https://css-tricks.com/almanac/
 
@@ -132,11 +119,7 @@ https://www.youtube.com/watch?v=8xpM8pm5yIo
 https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059
 
 #### mysql memory usage calculator
-http://www.omh.cc/mycnf/
 http://www.mysqlcalculator.com/
-
-#### how to write secret stuff in a file
-https://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-hide-data-in-a-secret-text-file-compartment/
 
 #### foreign key cases
 https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-on-update-and-on-delete
