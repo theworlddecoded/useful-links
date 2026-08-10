@@ -91,12 +91,6 @@ https://www.youtube.com/watch?v=cczlpiiu42M
 #### online QUIZ collection
 https://www.codepunker.com/
 
-#### PHP singletone design pattern
-https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php
-
-#### temporary email address in 2 seconds for trial licenses
-https://maildrop.cc/
-
 #### MySQL shard query
 https://www.percona.com/blog/2014/05/01/parallel-query-mysql-shard-query/
 
